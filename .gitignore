@@ -1,1 +1,6 @@
-settings.py
+.env
+__pycache__/
+venv/
+*.pyc
+*.log
+db.sqlite3
